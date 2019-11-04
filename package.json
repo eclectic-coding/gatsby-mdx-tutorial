@@ -24,6 +24,8 @@
     "styled-components": "^4.4.1"
   },
   "scripts": {
-    "dev": "gatsby develop -p 3000 -o"
+    "dev": "gatsby develop -o",
+    "build": "gatsby build",
+      "serve": "gatsby serve -o"
   }
 }
