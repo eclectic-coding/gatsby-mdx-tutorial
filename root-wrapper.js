@@ -1,5 +1,6 @@
 import { MDXProvider } from '@mdx-js/react'
-import Highlight, { defaultProps } from 'prism-react-renderer'
+import Code from './src/components/Code'
+
 import React from 'react'
 
 const components = {
