@@ -26,9 +26,9 @@ export default ({ data }) => {
             <Link to={fields.slug}>
               {!!frontmatter.cover ? <Image sizes={frontmatter.cover.childImageSharp.sizes}/> : null}
               <h1>{frontmatter.title}</h1>
-              <p>{frontmatter.date}</p>
-              <p>{excerpt}</p>
             </Link>
+            <p>{frontmatter.date}</p>
+            <p>{excerpt}</p>
           </PostWrapper>
         ))}
       </IndexWrapper>
