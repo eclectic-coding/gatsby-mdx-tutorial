@@ -38,6 +38,12 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-source-dev`,
+      options: {
+        username: `eclecticcoding`
+      }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: { path: `${__dirname}/posts`, name: `posts` }
     }

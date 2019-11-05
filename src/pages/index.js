@@ -59,5 +59,18 @@ export const query = graphql`
                 }
             }
         }
+        allDevArticles {
+            edges {
+                node {
+                    id
+                    article {
+                        title
+                        tags
+                        created_at
+                        cover_image
+                    }
+                }
+            }
+        }
     }
 `
