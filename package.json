@@ -13,7 +13,7 @@
     "gatsby-plugin-react-helmet": "^3.3.10",
     "gatsby-plugin-sharp": "^2.6.24",
     "gatsby-plugin-styled-components": "^3.3.10",
-    "gatsby-remark-images": "^3.3.23",
+    "gatsby-remark-images": "^3.3.24",
     "gatsby-source-dev": "^0.1.4",
     "gatsby-source-filesystem": "^2.3.23",
     "gatsby-transformer-sharp": "^2.5.12",
