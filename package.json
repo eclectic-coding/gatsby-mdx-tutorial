@@ -16,7 +16,7 @@
     "gatsby-remark-images": "^3.6.0",
     "gatsby-source-dev": "^0.1.4",
     "gatsby-source-filesystem": "^2.5.0",
-    "gatsby-transformer-sharp": "^2.6.0",
+    "gatsby-transformer-sharp": "^2.7.0",
     "prism-react-renderer": "^1.1.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
