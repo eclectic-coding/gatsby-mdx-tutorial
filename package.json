@@ -22,7 +22,7 @@
     "react-dom": "^16.14.0",
     "react-live": "^2.2.3",
     "react-seo-component": "^1.0.0",
-    "styled-components": "^5.2.3"
+    "styled-components": "^5.3.0"
   },
   "scripts": {
     "dev": "gatsby develop -o",
